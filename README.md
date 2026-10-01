@@ -10,7 +10,8 @@ This is the official Windows release repository. The installer is distributed th
 - Keeps the real recording times and the gaps between clips.
 - Synchronises cameras by analysing their audio.
 - Optionally applies colour labels, closes inactive gaps, creates one track per clip and leaves out the formats you choose.
-- Builds into a new timeline, or into the one you have open without touching your clips.
+- Builds into a new timeline, or into the one you have open.
+- Its own panel inside DaVinci, in English, Spanish, Portuguese (Brazil), German, French or Italian — the language DaVinci uses.
 
 ## Requirements
 
