@@ -1,5 +1,7 @@
 # Ingest Pro Resolve — plugin for DaVinci Resolve Studio
 
+**Official website: [www.ingest-pro.com](https://www.ingest-pro.com/davinci)** · downloads, guides, pricing and support.
+
 Ingest Pro Resolve builds an organised multicamera timeline directly inside DaVinci Resolve Studio, live, from the recording time of every clip.
 
 This is the official Windows release repository. The installer is distributed through [GitHub Releases](https://github.com/vt-prods/ingest-pro-plugin-davinci-windows/releases/latest); the plugin source code is not included here.
